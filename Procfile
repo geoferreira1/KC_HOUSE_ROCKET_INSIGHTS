@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run insights-kc-house-rocket-dash.py
