@@ -12,7 +12,7 @@
 
 <h2>1. Problemas de Negócio</h2>
 <h3>1.1. Contextualização</h3>
-<p>a KC House Rocket é uma empresa de compra e venda de imóveis localizada em Seattle (EUA) utilizando plataforma digital.</p>
+<p>A KC House Rocket é uma empresa de compra e venda de imóveis localizada em Seattle (EUA) utilizando plataforma digital.</p>
 <p>Seu CEO deseja aumentar a receita da empresa com base em decisões em dados para que tenha as melhores oportunidades de compra e venda dos imóveis. A principal estratégia é comprar as casas mais baratas e revender no futuro, quanto maior é essa diferença entre a compra e a venda do imóvel, maior é seu lucro.</p>
 <h3>1.2. Necessidade</h3>
 <p>Achar boas oportunidades é uma tarefa difícil pela quantidade de características que um imóvel tem. Então, o CEO necessita de uma análise para responder à essas questões:</p>
