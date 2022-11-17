@@ -7,7 +7,7 @@
 **Aviso:** O dados foram extraídos do site https://www.kaggle.com/harlfoxem/housesalesprediction, a empresa existe e os resultados apresentados nesse projeto não tem vínculo com os resultados reais da empresa, o contexto, o CEO, e as questões de negócios existem apenas para elaboração desse contexto.
 
 # **Vizualização**
-<a href="https://insights-kc-house-rocket-dash.herokuapp.com/">DASHBOARD KC HOUSE ROCKET INSIGHTS</a>
+<a href="https://kc-house-rock-insights-dash.streamlit.app/">DASHBOARD KC HOUSE ROCKET INSIGHTS</a>
 
 
 <h2>1. Problemas de Negócio</h2>
